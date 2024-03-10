@@ -12,4 +12,4 @@
 
 # Resultado: 
  
-![Image of system](https://raw.githubusercontent.com/Otavio15/app-desktop-js/master/produto.png)
+![Image of system](https://github.com/helenblopes/projeto/blob/main/Tela%20de%20Cadastro.png)
