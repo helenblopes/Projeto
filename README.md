@@ -8,8 +8,7 @@
 
 - Na linguagem JavaScript há apenas 5 funções e o código não ultrapassa 90 linhas.
 
-- Foi iniciado a construção do back-end, porém não foi concluido.
+- Foi iniciado a construção do back-end, porém não foi préviamente concluido.
 
 # Resultado: 
- 
-![Image of system](https://raw.githubusercontent.com/Otavio15/app-desktop-js/master/produto.png)
+
