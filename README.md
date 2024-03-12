@@ -1,4 +1,4 @@
-# Software de controle de estoque usando apenas JavaScript, HTML e CSS
+# Software de controle de estoque
 
 - O software possui um **CRUD** completo e foi construido usando apenas Javascript (puro), HTML e CSS
 
